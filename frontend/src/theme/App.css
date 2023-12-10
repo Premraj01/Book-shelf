@@ -1,0 +1,9 @@
+.success{
+    color:green;
+}
+.danger{
+    color:red;
+}
+.cursor{
+    cursor: pointer;
+}
